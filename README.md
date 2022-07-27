@@ -5,3 +5,5 @@ A mock of stripe menu UI using ReactJS to demonstrate the use of useState, useRe
 ## Live preview
 
 https://stripe-menu-mock.vercel.app/
+
+![stripe-mock](src/images/Stripe.gif)
